@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/*
  * main - A Program to print hexadecimal numbers
  *
  * Return: 0 (Success)
@@ -12,7 +12,7 @@ int main(void)
 
 	for (x = 0; x < 16; x++)
 	{
-		if (n < 10)
+		if (x < 10)
 		{
 			putchar('0' + x);
 		}
