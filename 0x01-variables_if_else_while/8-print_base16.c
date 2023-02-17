@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - A Program to print hexadecimal numbers
  *
  * Return: 0 (Success)
