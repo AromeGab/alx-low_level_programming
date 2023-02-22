@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - a program to print putchar
- * Return: 0 (Success)
- */
+ * main - prints _putchar, followed by a new line.
+ * Return: 0
+**/
 
 int main(void)
 {
@@ -12,8 +12,9 @@ int main(void)
 
 	for (i = 0; i <= 7; i++)
 	{
-		_putchar(c[i];
+		_putchar(c[i]);
 	}
+
 	_putchar('\n');
 
 	return (0);
