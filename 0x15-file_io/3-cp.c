@@ -51,10 +51,10 @@ void close_file(int fd)
  * @argc: the count of arguments made available for the program
  * @argv: Array made of pointers to the arguments
  * Return: 0 if succesful
- * 	exit code 97 when argc is incorrect
- * 	exit code 98 if file_from does not exist
- * 	exit code 99 when file_to can not be created
- * 	exit code 100 when file_to or file_from can't be closed
+ *	exit code 97 when argc is incorrect
+ *	exit code 98 if file_from does not exist
+ *	exit code 99 when file_to can not be created
+ *	exit code 100 when file_to or file_from can't be closed
  *
  */
 
