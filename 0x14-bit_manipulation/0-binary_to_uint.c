@@ -5,6 +5,7 @@
  * @b: the string which contains the number to convert
  *
  * Return: the converted number, or 0 if unsuccessful
+ * Done by Arome Gabriel
  */
 unsigned int binary_to_uint(const char *b)
 {
