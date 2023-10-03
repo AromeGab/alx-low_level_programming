@@ -1,6 +1,6 @@
 0x15. C - File I/O
 
-Tasks carried out by Arome Gabriel (2023)
+Tasks carried out by Arome Gabriel (Sept., 2023)
 
 0. Write a function that reads a text file and prints it to the POSIX standard output.
 

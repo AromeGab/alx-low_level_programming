@@ -2,7 +2,7 @@
 
 /**
  * create_file - this function creates a file
- * @filename: is the name of the file to create
+ * @filename: this is the name of the file to create
  * @text_content: is a NULL terminated string to write to the file
  * Return: 1 if succesful, -1 if unsuccesful
  *
